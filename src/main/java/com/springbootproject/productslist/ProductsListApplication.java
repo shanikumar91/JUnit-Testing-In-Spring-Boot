@@ -33,7 +33,7 @@ public class ProductsListApplication {
 //    private static final Logger log = LoggerFactory.getLogger(ProductsListApplication.class);
 	public static void main(String[] args) {
         SpringApplication.run(ProductsListApplication.class, args);
-        System.out.println("Hare krishna hare  Krishna");
+        System.out.println("Hare krishna hare Ram Krishna");
         String str = "test";
         log.info("Product Service started {} successfully",str);
         log.warn("This is a warning message");
